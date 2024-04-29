@@ -1,0 +1,14 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "start learning backend in JS/node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ascybercode23",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
